@@ -10,6 +10,13 @@ This repository contains scripts to install various programs on Arch Linux. Each
 - [virtualbox.sh](#virtualboxsh)
 - [visual-studio.sh](#visual-studiosh)
 - [yay.sh](#yaysh)
+- [tmux.sh](#tmuxsh)
+- [neovim.sh](#neovimsh)
+- [lazygit.sh](#lazygitsh)
+- [ctop.sh](#ctopsh)
+- [k9s.sh](#k9ssh)
+- [htop.sh](#htopsh)
+- [glances.sh](#glancessh)
 
 ## Usage
 
